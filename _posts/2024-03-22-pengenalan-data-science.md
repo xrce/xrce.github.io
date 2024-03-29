@@ -6,6 +6,13 @@ categories: [Blog, "Data Science"]
 tags: [blog, data-science]
 ---
 
+<!--
+Feed 1 : https://www.instagram.com/p/C40pDsjx13C/
+Feed 2 : https://www.instagram.com/p/C40pOOnxUlE/
+Reel : https://www.instagram.com/reel/C40pVBjxeT3/
+Artikel : https://xrce.github.io/posts/pengenalan-data-science/
+-->
+
 ## Pengertian Data Science
 Data science adalah sebuah disiplin ilmiah yang bertujuan untuk menghasilkan pemahaman yang mendalam dari data dengan menggunakan metode ilmiah, statistik, teknik komputasi, dan domain knowledge.
 
