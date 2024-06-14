@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sejarah Data Science
-date: 2024-03-29 21:14 +0700
+date: 2024-03-25 00:00 +0700
 categories: [Blog, "Data Science"]
 tags: [blog, data-science]
 ---

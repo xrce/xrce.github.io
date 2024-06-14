@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pengenalan Data Science
-date: 2024-03-22 21:34 +0700
+date: 2024-03-18 00:00 +0700
 categories: [Blog, "Data Science"]
 tags: [blog, data-science]
 ---
